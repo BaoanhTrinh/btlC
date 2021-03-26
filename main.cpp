@@ -66,6 +66,6 @@ int main() {
 	logo();
 	loadingBar(); 
 	readFile();
-	thongKeTheoKQ();
+	run();
 	return 0;
 }
