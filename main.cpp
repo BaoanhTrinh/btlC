@@ -63,10 +63,9 @@ void run()
 
 int main() {
 	resizeConsole(3000,3000);
-//	logo();
-//	loadingBar(); 
+	logo();
+	loadingBar(); 
 	readFile();
-MenuStatistic();
-//thongKeTheoKQ();
+	thongKeTheoKQ();
 	return 0;
 }
